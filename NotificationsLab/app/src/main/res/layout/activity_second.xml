@@ -19,4 +19,13 @@
         android:textColor="#333"
         android:layout_centerInParent="true"/>
 
+    <Button
+        android:id="@+id/make_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Call"
+        android:layout_below="@id/textview"
+        android:layout_centerHorizontal="true"
+        android:autoLink="phone"/>
+
 </RelativeLayout>

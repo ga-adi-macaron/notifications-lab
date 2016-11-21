@@ -14,5 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:text="Click on the notification to continue!"
+        android:layout_centerInParent="true"
+        android:textColor="#333"/>
 </RelativeLayout>
